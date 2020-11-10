@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 1621012023 - Abdulkerim Köse
+echo $(ls | wc -l) dosya, 
